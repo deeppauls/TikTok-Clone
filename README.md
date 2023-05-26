@@ -1,6 +1,6 @@
 # tiktok_clone
 
-A new Flutter project.
+This is a ChatGPT and Dall-E integrated application, where users can communicate with their voice using voice assistant.
 
 ## Getting Started
 
